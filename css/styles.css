@@ -1,0 +1,78 @@
+body {
+    background-color: #ffffff;
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', sans-serif;
+    font-size: 5.625rem;
+    color: #2F2E41;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #2F2E41;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #2F2E41;
+}
+
+p {
+    color: #6C63FF;
+    line-height: 2;
+}
+
+.top-container {
+    background-color: #ffffff;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: #ffffff;
+    position: relative;
+    margin: 0;
+}
+
+.github-icon {
+    position: absolute;
+    right: 130px;
+    top: 10px;
+}
+
+.mail-icon {
+    position: absolute;
+    right: 50px;
+    top: 10px;
+}
+
+.profile {
+    position: relative;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.resume-image {
+    transform: scale(0.4);
+    position: absolute;
+    left: -250px;
+    top: -250px;
+
+}
+
+.online-test{
+    transform: scale(0.4);
+    position: absolute;
+    right: -450px;
+    top: 300;
+}
